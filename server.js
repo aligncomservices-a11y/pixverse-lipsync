@@ -3,7 +3,7 @@ const axios = require('axios');
 const FormData = require('form-data');
 const app = express();
 
-const API_KEY = 'sk-af2283cbd70f639bc774a26ca9230897';
+const API_KEY = 'sk-0b39e414c69a6b88ab17133f38c4bf40';
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
